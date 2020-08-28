@@ -1,1 +1,1 @@
-# recruiting-exercises for Deliverr - Inventory Allocator Assessment Submission
+Deliverr - Inventory Allocator Assessment Submission
