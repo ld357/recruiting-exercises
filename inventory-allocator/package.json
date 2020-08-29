@@ -1,0 +1,29 @@
+{
+  "name": "inventory-allocator",
+  "version": "1.0.0",
+  "description": "The problem is compute the best way an order can be shipped (called order) given inventory across a set of inventory (called inventory distribution).",
+  "main": "InventoryAllocator.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "is-upper-case": "^2.0.1",
+    "simple-spellchecker": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jsdoc": "^3.6.5",
+    "mocha": "^8.1.1",
+    "standard": "^14.3.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
